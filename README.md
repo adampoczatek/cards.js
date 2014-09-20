@@ -1,4 +1,4 @@
 cards.js
 ========
 
-Simple framework for managing playing cards
+Simple framework for managing playing cards.
